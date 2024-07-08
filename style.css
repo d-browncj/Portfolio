@@ -316,7 +316,7 @@ section {
 /* EXPERIENCE SECTION */
 
 #experience {
-  position: relative;
+  position: fixed;
 }
 
 .experience-sub-title {
